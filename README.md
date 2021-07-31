@@ -1,3 +1,20 @@
+### QR BRO
+QR stands for "Quick Response." While they may look simple, QR codes are capable of storing lots of data. But no matter how much they contain, when scanned, the QR code should allow the user to access information instantly – hence why it's called a Quick Response code.
+
+# Functionality :
+  -GENERATE QR CODE for Links / Plain texts
+  ![img_1](https://github.com/adimishrax7x/QR-Bro/blob/master/md%20images/1.png)
+  -Download the generated Link by clicking on the QR
+  
+  -Scan by upload
+  ![img_2](https://github.com/adimishrax7x/QR-Bro/blob/master/md%20images/2.png)
+  
+  -Scan by Webcam/Mobile-cam
+  ![img_3](https://github.com/adimishrax7x/QR-Bro/blob/master/md%20images/3.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

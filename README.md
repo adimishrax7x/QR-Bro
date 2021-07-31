@@ -1,7 +1,7 @@
-### QR BRO
+# QR BRO : https://qr-bro.netlify.app/
 QR stands for "Quick Response." While they may look simple, QR codes are capable of storing lots of data. But no matter how much they contain, when scanned, the QR code should allow the user to access information instantly – hence why it's called a Quick Response code.
 
-# Functionality :
+## Functionality :
   -GENERATE QR CODE for Links / Plain texts
   ![img_1](https://github.com/adimishrax7x/QR-Bro/blob/master/md%20images/1.png)
   -Download the generated Link by clicking on the QR
@@ -13,6 +13,15 @@ QR stands for "Quick Response." While they may look simple, QR codes are capable
   ![img_3](https://github.com/adimishrax7x/QR-Bro/blob/master/md%20images/3.png)
 
 
+## TOOLS USED :
+
+- Text Editor : Atom (generic plugins and Tabnine)
+- Hyper
+- git
+- React 
+- Material UI
+- Packages - 'qrcode' (for generating QR)
+           - react-qr-reader (for scanning QR)
 
 
 # Getting Started with Create React App

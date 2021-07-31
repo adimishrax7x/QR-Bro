@@ -15,9 +15,10 @@ QR stands for "Quick Response." While they may look simple, QR codes are capable
 
 ## TOOLS USED :
 
-- Text Editor : Atom (generic plugins and Tabnine)
+- Text Editor : VS CODE (generic plugins and Tabnine)
 - Hyper
 - git
+- yarn package manager
 - React 
 - Material UI
 - Packages - 'qrcode' (for generating QR)

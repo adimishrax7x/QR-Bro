@@ -23,7 +23,7 @@ QR stands for "Quick Response." While they may look simple, QR codes are capable
 - Material UI
 - Packages - 'qrcode' (for generating QR)
            - react-qr-reader (for scanning QR)
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
 
